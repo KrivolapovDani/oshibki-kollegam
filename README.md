@@ -28,3 +28,5 @@
 | 2026-09-20 | Дублирующий репозиторий opencode-kollegam без проверки пакета 04_коллегам | устранена |
 | 2026-09-21 | officecli: установщик через mirror отдаёт битый файл — качать с GitHub | устранена |
 | 2026-09-21 | MCP fetch/time: npm-пакеты отозваны — ставить через uv (проверенные ссылки) | устранена |
+| 2026-09-21 | MCP memory/sequentialthinking: «Connection closed» — npx не видел node в PATH (полные пути + environment.PATH) | устранена |
+| 2026-09-21 | git не виден в PATH сессии opencode — использовать полный путь MinGit | устранена |
